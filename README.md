@@ -2,6 +2,8 @@
 -------------------------------
 
 ## Project 1
-### using device control, IPC
+### Using device control, IPC
 ## Project 2
-### timer device driver using ioctl 
+### Timer device driver using ioctl 
+## Project 3
+### Stopwatch module, Interrupt handler(top, bottom half implementation) 
