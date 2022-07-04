@@ -2,4 +2,6 @@
 -------------------------------
 
 ## Project 1
-### Using device control, IPC
+### using device control, IPC
+## Project 2
+### timer device driver using ioctl 
